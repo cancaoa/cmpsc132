@@ -25,8 +25,8 @@ def calcBaseballStats():
 
 
         # Default directories:
-        directory_path = 'C:\\Users\\Domin\\github\\Python\\Helping Omer\\data.txt'
-        folder_path = 'Stats\\data.txt'
+        directory_path = '/Users/omercanca/Desktop/Final/Final_Stats.txt'
+        folder_path = '/Users/omercanca/Desktop/Final/Final_Stats.txt'
 
         try:
             with open(path) as fileRead:
